@@ -1,2 +1,2 @@
 # Python
-All Things R.
+All Things Python.
