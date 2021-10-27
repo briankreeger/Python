@@ -5,7 +5,7 @@ seaborn==0.7.1
 ipython==6.1.0
 jupyter==1.0.0
 notebook==5.0.0
-dask==0.15.0
+dask==2021.10.0
 distributed==1.17.1
 toolz==0.8.2
 cloudpickle==0.3.1
