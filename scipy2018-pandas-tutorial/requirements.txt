@@ -11,7 +11,7 @@ toolz==0.8.2
 cloudpickle==0.3.1
 pandas-datareader==0.4.0
 scikit-learn==0.18.2
-scipy==0.19.1
+scipy==1.10.0
 statsmodels==0.8.0
 xlrd==1.0.0
 lifetimes==0.6.0.0
