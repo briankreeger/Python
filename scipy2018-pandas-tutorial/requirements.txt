@@ -6,7 +6,7 @@ ipython==8.10.0
 jupyter==1.0.0
 notebook==6.4.12
 dask==0.15.0
-distributed==1.17.1
+distributed==2026.1.1
 toolz==0.8.2
 cloudpickle==0.3.1
 pandas-datareader==0.4.0
